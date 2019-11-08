@@ -1,5 +1,5 @@
 {
-  "name": "carguruid",
+  "name": "cargurus-id-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DPM97/carguruID.git"
+    "url": "git+https://github.com/DPM97/cargurus-id-generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DPM97/carguruID/issues"
+    "url": "https://github.com/DPM97/cargurus-id-generator/issues"
   },
-  "homepage": "https://github.com/DPM97/carguruID#readme",
+  "homepage": "https://github.com/DPM97/cargurus-id-generator#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0"
